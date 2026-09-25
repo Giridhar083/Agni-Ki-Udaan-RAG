@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Hindi RAG — Agni Ki Udaan
 
 RAG pipeline over the supplied Hindi PDF. Hindi and English questions both work, answers are grounded
