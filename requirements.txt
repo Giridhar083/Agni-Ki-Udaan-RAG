@@ -1,0 +1,8 @@
+# Python >= 3.10 (developed/tested on 3.12)
+chromadb>=1.0,<2          # vector DB (tested with 1.5.9)
+pdfplumber>=0.11          # table geometry only (tested with 0.11.9)
+numpy>=1.26
+sentence-transformers>=3.0  # multilingual embeddings (pulls in torch)
+python-dotenv>=1.0         # optional: read API keys from .env         # optional: only if you use the paid Claude generator
+pytest>=8                 # tests
+
