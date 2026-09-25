@@ -97,6 +97,3 @@ pytest -q
 - Free-tier model IDs keep changing (see the Gemini note above) — could make the code list available
   models at startup instead of hardcoding a default.
 =======
-# Agni-Ki-Udaan-RAG
->>>>>>> 0646ccbded7cad77b296a59b79ce1a3368784526
-# Agni-Ki-Udaan-RAG
